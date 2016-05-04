@@ -278,7 +278,7 @@ $('head link[rel=\'stylesheet\']')['last']()['after']('<style>.btn-m69:hover {  
                    $(this).toggleClass("kMarked");
                 });
                 //End
-                $('<a class="btn btn-success btn-zeroK" style="margin-top:10px" href="http://agarforums.io/" target="_blank" id="kIPlist">Agarforums</a>').insertAfter("#btn_copy_gameinfo");
+                $('<a class="btn btn-success btn-zeroK" style="margin-top:10px" href="https://www.youtube.com/channel/UC75igIlw4d_TaLrqrMlP1FA" target="_blank" id="kIPlist">My YT</a>').insertAfter("#btn_copy_gameinfo");
                        //Theming Section
                 $("#privateServerBox2").append('<div id="addMenuKontainer" class=" agario-side-panel" style="margin-bottom:0px !important"><div class="clear-menu-btnK"><input id="addMenuK" type="checkbox"><span class="topK"></span><span class="middleK"></span><span class="bottomK"></span><span class="circleK"></span></div><p style="text-align:center;color:#42A5F5">(✖) Options (90%)</p></div>');
                 $("#addMenuKontainer").after('<div id="additionalPanelK" class=" agario-side-panel" style="margin-top:0px;display:none;padding-top:0px !important;font-size:9px !important;font-family:Ubuntu"></div>');
